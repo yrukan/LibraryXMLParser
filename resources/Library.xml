@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<library xmlns="http://www.it-academy.by/Library-schema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.it-academy.by/Library-schema Library-schema.xsd">
+	<edition id="1">
+		<type>newspaper</type>
+		<name>New York Times</name>
+		<author>NA</author>
+		<year>2018</year>
+		<library />
+	</edition>
+	<edition id="2">
+		<type>book</type>
+		<name>Mobby Dick</name>
+		<author>Charles Dickens</author>
+		<year>1856</year>
+		<home />
+		<readingTimeDays>14</readingTimeDays>
+	</edition>
+</library>
+		
